@@ -1,5 +1,5 @@
 {
-  "players": [
+  "players": {
     "6058ed09d0aad50001959dd0": {
       "name": "Ribeirete",
       "district": "Setúbal",
@@ -95,5 +95,5 @@
       "district": "Madeira",
       "flag": "https://i.imgur.com/5ufDF3I.png"
     }
-  ]
+  }
 }
