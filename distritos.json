@@ -79,21 +79,6 @@
       "name": "gomes",
       "district": "Viana do Castelo",
       "flag": "https://i.imgur.com/zQGJ9MO.png"
-    },
-    "61dedc1d1e21f300016c579b": {
-      "name": "Toni",
-      "district": "Lisboa",
-      "flag": "https://i.imgur.com/opjFTcw.png"
-    },
-    "686f22095c6dadee4f0dd6dd": {
-      "name": "Teste Blue",
-      "district": "Coimbra",
-      "flag": "https://i.imgur.com/LMVjsMS.png"
-    },
-    "687034174f3b74b80fcce8c6": {
-      "name": "Teste Red",
-      "district": "Madeira",
-      "flag": "https://i.imgur.com/5ufDF3I.png"
     }
   }
 }
