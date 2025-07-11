@@ -1,151 +1,181 @@
 {
   "matches": {
     "1": {
+      "status": 0,
       "players": ["Andrade", "Pedro Gomes"],
       "score": [0, 0],
       "time": "16h00"
     },
     "2": {
+      "status": 0,
       "players": ["highoncommunism", "gomes"],
       "score": [0, 0],
       "time": "16h20"
     },
     "3": {
+      "status": 0,
       "players": ["vasco", "flopes"],
       "score": [0, 0],
       "time": "16h40"
     },
     "4": {
+      "status": 0,
       "players": ["Shadow", "breaknokia"],
       "score": [0, 0],
       "time": "17h00"
     },
     "5": {
+      "status": 0,
       "players": ["Gonçalo Martins", "Ribeirete"],
       "score": [0, 0],
       "time": "17h20"
     },
     "6": {
+      "status": 0,
       "players": ["RodrigoCC", "slayt"],
       "score": [0, 0],
       "time": "17h40"
     },
     "7": {
+      "status": 0,
       "players": ["r1czz", "LAKAKA"],
       "score": [0, 0],
       "time": "18h00"
     },
     "8": {
+      "status": 0,
       "players": ["Ricky Beast", "David Andrade"],
       "score": [0, 0],
       "time": "18h20"
     },
     "9": {
+      "status": 0,
       "players": ["perdedor da 1", "perdedor da 2"],
       "score": [0, 0],
       "time": "16h40"
     },
     "10": {
+      "status": 0,
       "players": ["perdedor da 3", "perdedor da 4"],
       "score": [0, 0],
       "time": "17h00"
     },
     "11": {
+      "status": 0,
       "players": ["perdedor da 5", "perdedor da 6"],
       "score": [0, 0],
       "time": "18h00"
     },
     "12": {
+      "status": 0,
       "players": ["perdedor da 7", "perdedor da 8"],
       "score": [0, 0],
       "time": "18h40"
     },
     "13": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "18h40"
     },
     "14": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "19h00"
     },
     "15": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "19h20"
     },
     "16": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "19h40"
     },
     "17": {
+      "status": 0,
       "players": ["perdedor da 13", ""],
       "score": [0, 0],
       "time": "19h00"
     },
     "18": {
+      "status": 0,
       "players": ["perdedor da 14", ""],
       "score": [0, 0],
       "time": "19h20"
     },
     "19": {
+      "status": 0,
       "players": ["perdedor da 15", ""],
       "score": [0, 0],
       "time": "19h40"
     },
     "20": {
+      "status": 0,
       "players": ["perdedor da 16", ""],
       "score": [0, 0],
       "time": "20h00"
     },
     "21": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "20h20"
     },
     "22": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "20h40"
     },
     "23": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "20h40"
     },
     "24": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "21h00"
     },
     "25": {
+      "status": 0,
       "players": ["perdedor da 23", ""],
       "score": [0, 0],
       "time": "21h00"
     },
     "26": {
+      "status": 0,
       "players": ["perdedor da 24", ""],
       "score": [0, 0],
       "time": "21h20"
     },
     "27": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "21h40"
     },
     "28": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "21h20"
     },
     "29": {
+      "status": 0,
       "players": ["perdedor da 28", ""],
       "score": [0, 0],
       "time": "22h00"
     },
     "30": {
+      "status": 0,
       "players": ["", ""],
       "score": [0, 0],
       "time": "22h20"
