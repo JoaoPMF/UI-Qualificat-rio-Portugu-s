@@ -50,7 +50,7 @@
     },
     "9": {
       "status": 2,
-      "players": ["perdedor da 1", "perdedor da 2"],
+      "players": ["teste ", "perdedor da 2"],
       "score": [2, 1],
       "time": "16h40"
     },
