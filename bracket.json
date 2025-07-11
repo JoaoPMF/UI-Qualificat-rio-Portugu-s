@@ -1,5 +1,5 @@
 {
-  "matches": [
+  "matches": {
     "1": {
       "players": ["Andrade", "Pedro Gomes"],
       "score": [0, 0],
@@ -150,5 +150,5 @@
       "score": [0, 0],
       "time": "22h20"
     }
-  ]
+  }
 }
