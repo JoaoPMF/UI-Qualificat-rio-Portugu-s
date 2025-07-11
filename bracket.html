@@ -11,19 +11,34 @@
       font-size: 36px;
       font-family: sans-serif;
     }
+    .playerBox {
+      display: flex;
+      flex-direction: column;
+    }
+    #playerScore {
+      justify-content: end;
+    }
   </style>
 </head>
 <body>
-  <div id="playerName">Loading...</div>
-
+  <div class="playerBox">
+    <div class="playerName1">Loading...</div>
+    <div class="playerScore2"></div>
+  </div>
+  <div class="playerBox">
+    <div class="playerName">Loading...</div>
+    <div class="playerScore"></div>
+  </div>
   <script>
     async function fetchPlayer() {
       const url = "https://raw.githubusercontent.com/JoaoPMF/UI-Qualificat-rio-Portugu-s/refs/heads/main/bracket.json";
       try {
         const response = await fetch(url);
         const data = await response.json();
-        const player = data.matches["1"].players[0];
-        document.getElementById("playerName").textContent = player;
+        document.querySelectorAll(".playerName")[0].textContent = data.matches["1"].players[0];
+        document.querySelectorAll(".playerName")[1].textContent = data.matches["1"].players[1];
+        document.querySelectorAll(".playerScore")[0].textContent = data.matches["1"].score[0];
+        document.querySelectorAll(".playerScore")[1].textContent = data.matches["1"].score[1];
       } catch (err) {
         document.getElementById("playerName").textContent = "???";
       }
