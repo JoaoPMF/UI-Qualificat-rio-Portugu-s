@@ -1,56 +1,56 @@
 {
   "matches": {
     "1": {
-      "status": 0,
+      "status": 1,
       "players": ["Andrade", "Pedro Gomes"],
       "score": [0, 0],
       "time": "16h00"
     },
     "2": {
-      "status": 0,
+      "status": 1,
       "players": ["highoncommunism", "gomes"],
       "score": [0, 0],
       "time": "16h20"
     },
     "3": {
-      "status": 0,
+      "status": 1,
       "players": ["vasco", "flopes"],
       "score": [0, 0],
       "time": "16h40"
     },
     "4": {
-      "status": 0,
+      "status": 1,
       "players": ["Shadow", "breaknokia"],
       "score": [0, 0],
       "time": "17h00"
     },
     "5": {
-      "status": 0,
+      "status": 1,
       "players": ["Gonçalo Martins", "Ribeirete"],
       "score": [0, 0],
       "time": "17h20"
     },
     "6": {
-      "status": 0,
+      "status": 1,
       "players": ["RodrigoCC", "slayt"],
       "score": [0, 0],
       "time": "17h40"
     },
     "7": {
-      "status": 0,
+      "status": 1,
       "players": ["r1czz", "LAKAKA"],
       "score": [0, 0],
       "time": "18h00"
     },
     "8": {
-      "status": 0,
+      "status": 1,
       "players": ["Ricky Beast", "David Andrade"],
       "score": [0, 0],
       "time": "18h20"
     },
     "9": {
-      "status": 2,
-      "players": ["jogador", "vencedor"],
+      "status": 0,
+      "players": ["perdedor da 1", "perdedor da 2"],
       "score": [0, 2],
       "time": "16h40"
     },
