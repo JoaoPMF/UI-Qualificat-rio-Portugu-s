@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Bracket</title>
+  <style>
+    body {
+      margin: 0;
+      background: transparent;
+      color: blue;
+      font-size: 36px;
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+<body>
+  <div id="playerName">Loading...</div>
+
+  <script>
+    async function fetchPlayer() {
+      const url = "https://raw.githubusercontent.com/JoaoPMF/UI-Qualificat-rio-Portugu-s/refs/heads/main/bracket.json";
+      try {
+        const response = await fetch(url);
+        const data = await response.json();
+        const player = data.matches["1"].players[0];
+        document.getElementById("playerName").textContent = player;
+      } catch (err) {
+        document.getElementById("playerName").textContent = "???";
+      }
+    }
+    fetchPlayer();
+  </script>
+</body>
+</html>
