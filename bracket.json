@@ -49,8 +49,8 @@
       "time": "18h20"
     },
     "9": {
-      "status": 1,
-      "players": ["perdedor da 11", "perdedor da 22"],
+      "status": 0,
+      "players": ["perdedor da 1", "perdedor da 2"],
       "score": [0, 0],
       "time": "16h40"
     },
